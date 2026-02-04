@@ -19,7 +19,7 @@
 <a href="#"><img src="https://img.shields.io/badge/edition-Professional-yellow?style=flat" alt="edition"/></a>
 <a href="#"><img src="https://img.shields.io/badge/system-macOS-blue?style=flat" alt="system"/></a>
 
-<img src="https://play-lh.googleusercontent.com/SkVQu_JUUj2qxTLbKhjxeULWTFLL0MxgT4YFCWRLOdeGMz3RlSIqycdyYFF_uMMh6Q=w526-h296-rw" width="824" alt="Interface"/>
+<img src="https://jostle.me/assets/build/images/mobile/mobile-ipad.jpg" width="824" alt="Interface"/>
 
 </div>
 
